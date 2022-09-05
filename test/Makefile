@@ -4,4 +4,4 @@ PWD=$(shell pwd)
 
 include ../common.mk
 
-all: build push
+all: build docker_push
