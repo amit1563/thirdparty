@@ -1,0 +1,1 @@
+# Kafka base image with required dependencies for plugins. Injects your use cases related setting and configuration to the base image.
